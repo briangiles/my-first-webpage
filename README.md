@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _My First Web Page_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A Simple Web Page, Dec 5, 2016_
 
-#### By _**{List of contributors}**_
+#### By _**Brian Giles**_
 
 ## Description
 
